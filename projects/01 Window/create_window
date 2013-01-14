@@ -1,9 +1,10 @@
 import Tkinter
 
+
 main = Tkinter.Tk()
 
 main.size
 
 
-main.pack()
+# main.pack()
 main.mainloop()
